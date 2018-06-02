@@ -1,6 +1,6 @@
 {
-  "name": "kkbox-yoga",
-  "version": "1.0.0",
+  "name": "kk-yoga",
+  "version": "0.0.1",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
